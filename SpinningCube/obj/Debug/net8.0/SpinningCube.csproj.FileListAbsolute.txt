@@ -1,0 +1,14 @@
+C:\Users\StammNo\source\repos\SpinningCube\SpinningCube\obj\Debug\net8.0\SpinningCube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\StammNo\source\repos\SpinningCube\SpinningCube\obj\Debug\net8.0\SpinningCube.AssemblyInfoInputs.cache
+C:\Users\StammNo\source\repos\SpinningCube\SpinningCube\obj\Debug\net8.0\SpinningCube.AssemblyInfo.cs
+C:\Users\StammNo\source\repos\SpinningCube\SpinningCube\obj\Debug\net8.0\SpinningCube.csproj.CoreCompileInputs.cache
+C:\Users\StammNo\source\repos\SpinningCube\SpinningCube\bin\Debug\net8.0\SpinningCube.exe
+C:\Users\StammNo\source\repos\SpinningCube\SpinningCube\bin\Debug\net8.0\SpinningCube.deps.json
+C:\Users\StammNo\source\repos\SpinningCube\SpinningCube\bin\Debug\net8.0\SpinningCube.runtimeconfig.json
+C:\Users\StammNo\source\repos\SpinningCube\SpinningCube\bin\Debug\net8.0\SpinningCube.dll
+C:\Users\StammNo\source\repos\SpinningCube\SpinningCube\bin\Debug\net8.0\SpinningCube.pdb
+C:\Users\StammNo\source\repos\SpinningCube\SpinningCube\obj\Debug\net8.0\SpinningCube.dll
+C:\Users\StammNo\source\repos\SpinningCube\SpinningCube\obj\Debug\net8.0\refint\SpinningCube.dll
+C:\Users\StammNo\source\repos\SpinningCube\SpinningCube\obj\Debug\net8.0\SpinningCube.pdb
+C:\Users\StammNo\source\repos\SpinningCube\SpinningCube\obj\Debug\net8.0\SpinningCube.genruntimeconfig.cache
+C:\Users\StammNo\source\repos\SpinningCube\SpinningCube\obj\Debug\net8.0\ref\SpinningCube.dll
